@@ -10,7 +10,7 @@ public class Coin : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        // pass
     }
 
     // Update is called once per frame
